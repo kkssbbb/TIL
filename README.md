@@ -13,7 +13,7 @@
 ---------------
 ## ETC
 - intelliJ
-    - [SpringBoot(start) 시작 및 환경설정](https://github.com/KINGsBARE/TIL/blob/main/SpringBoot(start).md)
+    - [SpringBoot(start) 시작 및 환경설정] (https://github.com/KINGsBARE/TIL/blob/main/ETC/SpringBoot(start) 시작 및 환경설정.md)
  - git_github
-     - [intelliJ github 연결](https://github.com/KINGsBARE/TIL/blob/main/git_github.md)
+     - [intelliJ github 연결] (https://github.com/KINGsBARE/TIL/blob/main/ETC/intelliJ github 연결.md)
 ---------------
