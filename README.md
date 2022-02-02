@@ -12,7 +12,8 @@
      - test
 ---------------
 ## ETC
-- intelliJ<TIL/intelliJ.md>
-   - git / github
+- [intelliJ](https://github.com/KINGsBARE/TIL/blob/main/intelliJ.md)
+    - test
+ - [git_github](https://github.com/KINGsBARE/TIL/blob/main/git_github.md)
      - test
 ---------------
