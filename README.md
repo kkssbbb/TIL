@@ -12,7 +12,7 @@
      - test
 ---------------
 ## ETC
-- inteliJ
+- intelliJ
    - git / github
      - test
 ---------------
