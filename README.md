@@ -1,3 +1,18 @@
-# TIL
+# TIL  (Today I Learned)
 
-## TEST~
+## JAVA 
+- test
+   - test
+     - test
+
+---------------
+## Spring
+- test
+   - test
+     - test
+---------------
+## ETC
+- inteliJ
+   - git / github
+     - test
+---------------
