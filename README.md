@@ -9,7 +9,7 @@
 ## Spring
 - SpringBoot
    - 테스트 코드 작성의 기본
-     - test
+   - [gralde 버전변경하는법](https://github.com/KINGsBARE/TIL/blob/main/Spring/gradle%20%EB%B2%84%EC%A0%84%20%EB%B3%80%EA%B2%BD%ED%95%98%EB%8A%94%20%EB%B2%95.md)
 ---------------
 ## ETC
 - 스프링 부트와 AWS로 혼자 구현하는 웹 서비스(BOOK)
