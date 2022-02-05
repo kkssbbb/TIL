@@ -6,7 +6,7 @@
 
 >* 참고 MyBatis,iBatis 는 ORM이 아니고 SQL Mapper다
 <br>ORM은 객체를 맵핑,
-SPL Mapper는 쿼리를 맵핑한다.
+SQL Mapper는 쿼리를 맵핑한다.
 
 <br>
 <br>
