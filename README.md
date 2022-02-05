@@ -14,7 +14,7 @@
 ## Errors
 - SpringBoot
   - [Testcode 실행 404에러](https://github.com/KINGsBARE/TIL/blob/main/Errors/Testcode%20%EC%8B%A4%ED%96%89%20404%EC%97%90%EB%9F%AC.md)
-  - [테스트코드 No tests found for given includes](https://github.com/kkssbbb/TIL/blob/main/Errors/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C%20No%20tests%20found%20for%20given%20includes.md)
+  - [테스트코드 No tests found for given includes 에러](https://github.com/kkssbbb/TIL/blob/main/Errors/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C%20No%20tests%20found%20for%20given%20includes.md)
 ---------------
 ## ETC
 - 스프링 부트와 AWS로 혼자 구현하는 웹 서비스(BOOK)
