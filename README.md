@@ -1,9 +1,10 @@
 # TIL  (Today I Learned)
 
 ## JAVA 
-- test
-   - test
-     - test
+- 객체지향
+- JPA(Java Persistence API)
+   - Spring Data JPA
+     
 
 ---------------
 ## Spring
