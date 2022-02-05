@@ -2,8 +2,8 @@
 
 ## JAVA 
 - 객체지향
-- JPA(Java Persistence API)
-   - Spring Data JPA
+- [JPA(Java Persistence API)](https://github.com/kkssbbb/TIL/blob/main/JAVA/JPA/JPA(Java%20Persistence%20API).md)
+   - [Spring Data JPA](https://github.com/kkssbbb/TIL/blob/main/JAVA/JPA/Spring%20Data%20JPA.md)
      
 
 ---------------
