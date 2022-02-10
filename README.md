@@ -7,7 +7,7 @@
 - [JVM과 JDK 이해하기](https://github.com/kkssbbb/TIL/blob/main/JAVA/JVM%EA%B3%BC%20JDK%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
 - [Static , Heap, Stack 이란](https://github.com/kkssbbb/TIL/blob/main/JAVA/Static%20%2C%20Heap%2C%20Stack%20%EC%9D%B4%EB%9E%80.md)
 
-- [커스텀 자료형 bean과 heap](https://github.com/kkssbbb/TIL/blob/main/JAVA/%EC%BB%A4%EC%8A%A4%ED%85%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20bean%EA%B3%BC%20heap.md)
+- [커스텀 자료형 bean과 메모리영역 heap](https://github.com/kkssbbb/TIL/blob/main/JAVA/%EC%BB%A4%EC%8A%A4%ED%85%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20bean%EA%B3%BC%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%98%81%EC%97%ADheap.md)
      
 <br>
 <br>
