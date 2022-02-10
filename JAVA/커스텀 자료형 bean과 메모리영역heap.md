@@ -1,5 +1,5 @@
 
-# Bean
+# Beans
 
 ## 자료형 8가지
 ![자료형](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCkbyhljIrQ6X62ukyXpuMSzBpJLKKB_IrVw&usqp=CAU)
