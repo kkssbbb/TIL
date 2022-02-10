@@ -3,10 +3,11 @@
 ## JAVA 
 - 객체지향
 - [자바의 규칙](https://github.com/kkssbbb/TIL/blob/main/JAVA/%EC%9E%90%EB%B0%94%EC%9D%98%20%EA%B7%9C%EC%B9%99.md)
-- [JPA(Java Persistence API)](https://github.com/kkssbbb/TIL/blob/main/JAVA/JPA/JPA(Java%20Persistence%20API).md)
-   - [Spring Data JPA](https://github.com/kkssbbb/TIL/blob/main/JAVA/JPA/Spring%20Data%20JPA.md)
+
 - [JVM과 JDK 이해하기](https://github.com/kkssbbb/TIL/blob/main/JAVA/JVM%EA%B3%BC%20JDK%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
 - [Static , Heap, Stack 이란](https://github.com/kkssbbb/TIL/blob/main/JAVA/Static%20%2C%20Heap%2C%20Stack%20%EC%9D%B4%EB%9E%80.md)
+
+- [커스텀 자료형 bean과 heap]()
      
 <br>
 <br>
@@ -16,6 +17,9 @@
 - SpringBoot
    - 테스트 코드 작성의 기본
    - [gralde 버전변경하는법](https://github.com/KINGsBARE/TIL/blob/main/Spring/gradle%20%EB%B2%84%EC%A0%84%20%EB%B3%80%EA%B2%BD%ED%95%98%EB%8A%94%20%EB%B2%95.md)
+- JPA
+   - [JPA(Java Persistence API)](https://github.com/kkssbbb/TIL/blob/main/JAVA/JPA/JPA(Java%20Persistence%20API).md)
+   - [Spring Data JPA](https://github.com/kkssbbb/TIL/blob/main/JAVA/JPA/Spring%20Data%20JPA.md)
 
 <br>
 <br>
