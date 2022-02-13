@@ -17,12 +17,12 @@
 ---------------
 ## SpringBoot
 
-  - [SpringBoot 개념정리](https://github.com/kkssbbb/TIL/blob/main/Spring/SpringBoot%20%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC.md)
-  - [gralde 버전변경하는법](https://github.com/KINGsBARE/TIL/blob/main/Spring/gradle%20%EB%B2%84%EC%A0%84%20%EB%B3%80%EA%B2%BD%ED%95%98%EB%8A%94%20%EB%B2%95.md)
+  - [SpringBoot 개념정리](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/SpringBoot%20%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC.md)
+  - [gralde 버전변경하는법](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/gradle%20%EB%B2%84%EC%A0%84%20%EB%B3%80%EA%B2%BD%ED%95%98%EB%8A%94%20%EB%B2%95.md)
 ## JPA
-  - [JPA 개념정리]()
-   - [JPA(Java Persistence API)](https://github.com/kkssbbb/TIL/blob/main/Spring/JPA/JPA(Java%20Persistence%20API).md)
-   - [Spring Data JPA](https://github.com/kkssbbb/TIL/blob/main/Spring/JPA/Spring%20Data%20JPA.md)
+  - [JPA 개념정리](https://github.com/kkssbbb/TIL/blob/main/JPA/JPA%20%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC.md)
+   - [JPA(Java Persistence API)](https://github.com/kkssbbb/TIL/blob/main/JPA/JPA(Java%20Persistence%20API).md)
+   - [Spring Data JPA](https://github.com/kkssbbb/TIL/blob/main/JPA/Spring%20Data%20JPA.md)
 
 <br>
 <br>
