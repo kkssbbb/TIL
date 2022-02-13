@@ -15,11 +15,12 @@
 <br>
 
 ---------------
-## Spring
-- SpringBoot
-   - 테스트 코드 작성의 기본
-   - [gralde 버전변경하는법](https://github.com/KINGsBARE/TIL/blob/main/Spring/gradle%20%EB%B2%84%EC%A0%84%20%EB%B3%80%EA%B2%BD%ED%95%98%EB%8A%94%20%EB%B2%95.md)
-- JPA
+## SpringBoot
+
+  - [SpringBoot 개념정리]()
+  - [gralde 버전변경하는법](https://github.com/KINGsBARE/TIL/blob/main/Spring/gradle%20%EB%B2%84%EC%A0%84%20%EB%B3%80%EA%B2%BD%ED%95%98%EB%8A%94%20%EB%B2%95.md)
+## JPA
+  - [JPA 개념정리]()
    - [JPA(Java Persistence API)](https://github.com/kkssbbb/TIL/blob/main/Spring/JPA/JPA(Java%20Persistence%20API).md)
    - [Spring Data JPA](https://github.com/kkssbbb/TIL/blob/main/Spring/JPA/Spring%20Data%20JPA.md)
 
