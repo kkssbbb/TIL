@@ -6,7 +6,7 @@
 
 - [JVM과 JDK 이해하기](https://github.com/kkssbbb/TIL/blob/main/JAVA/JVM%EA%B3%BC%20JDK%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
 
-- [자바 메모리구조]()
+- [자바 메모리구조](https://github.com/kkssbbb/TIL/blob/main/JAVA/%EC%9E%90%EB%B0%94%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B5%AC%EC%A1%B0.md)
 
 - [커스텀 자료형 bean과 메모리영역 heap](https://github.com/kkssbbb/TIL/blob/main/JAVA/%EC%BB%A4%EC%8A%A4%ED%85%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20bean%EA%B3%BC%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%98%81%EC%97%ADheap.md)
 - [레퍼런스 (참조)변수 ,일반변수]()
