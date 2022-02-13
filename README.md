@@ -17,7 +17,7 @@
 ---------------
 ## SpringBoot
 
-  - [SpringBoot 개념정리]()
+  - [SpringBoot 개념정리](https://github.com/kkssbbb/TIL/blob/main/Spring/SpringBoot%20%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC.md)
   - [gralde 버전변경하는법](https://github.com/KINGsBARE/TIL/blob/main/Spring/gradle%20%EB%B2%84%EC%A0%84%20%EB%B3%80%EA%B2%BD%ED%95%98%EB%8A%94%20%EB%B2%95.md)
 ## JPA
   - [JPA 개념정리]()
