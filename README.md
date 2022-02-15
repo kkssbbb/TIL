@@ -1,5 +1,7 @@
 # TIL  (Today I Learned)
-
+---------------
+## Why?
+---------------
 ## JAVA 
 
 - [자바의 규칙](https://github.com/kkssbbb/TIL/blob/main/JAVA/%EC%9E%90%EB%B0%94%EC%9D%98%20%EA%B7%9C%EC%B9%99.md)
@@ -18,6 +20,7 @@
 ## SpringBoot
 
   - [SpringBoot 개념정리](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/SpringBoot%20%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC.md)
+  - [SpringBoot 동작원리]()
   - [gralde 버전변경하는법](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/gradle%20%EB%B2%84%EC%A0%84%20%EB%B3%80%EA%B2%BD%ED%95%98%EB%8A%94%20%EB%B2%95.md)
   - [테스트코드의 소개와 작성](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C%EC%9D%98%20%EC%86%8C%EA%B0%9C%EC%99%80%20%EC%9E%91%EC%84%B1.md)
    
