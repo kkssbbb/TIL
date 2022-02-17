@@ -1,0 +1,1 @@
+![요청방식](https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fu8FfJ%2FbtqDXD0YPaX%2FSFn1kLcyz76hA30Z7z7Khk%2Fimg.png)
