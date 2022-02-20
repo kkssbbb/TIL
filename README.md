@@ -61,7 +61,7 @@
  ### Algorithm
   -
  <br>
- 
+  
  ### Data Structure
  -
 
@@ -83,7 +83,7 @@
  - git_github
      - [intelliJ github 연결](https://github.com/KINGsBARE/TIL/blob/main/ETC/intelliJ%20github%20%EC%97%B0%EA%B2%B0.md)
 
-     - 테스트
+     - 
 
      <br>
      <br>
