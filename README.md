@@ -11,7 +11,7 @@
 - [자바 메모리구조](https://github.com/kkssbbb/TIL/blob/main/JAVA/%EC%9E%90%EB%B0%94%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B5%AC%EC%A1%B0.md)
 
 - [커스텀 자료형 bean과 메모리영역 heap](https://github.com/kkssbbb/TIL/blob/main/JAVA/%EC%BB%A4%EC%8A%A4%ED%85%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20bean%EA%B3%BC%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%98%81%EC%97%ADheap.md)
-- [람다식]()
+- [람다식](https://github.com/kkssbbb/TIL/blob/main/JAVA/%EB%9E%8C%EB%8B%A4%EC%8B%9D.md)
      
 <br>
 <br>
