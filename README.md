@@ -21,7 +21,7 @@
 
   - [SpringBoot 개념정리](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/SpringBoot%20%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC.md)
   - [SpringBoot 동작원리](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%20%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC.md)
-  - [영속성 컨텍스트와 더티체킹]()
+  - [영속성 컨텍스트와 더티체킹](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80%20%EB%8D%94%ED%8B%B0%EC%B2%B4%ED%82%B9.md)
   - [gralde 버전변경하는법](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/gradle%20%EB%B2%84%EC%A0%84%20%EB%B3%80%EA%B2%BD%ED%95%98%EB%8A%94%20%EB%B2%95.md)
   - [테스트코드의 소개와 작성](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C%EC%9D%98%20%EC%86%8C%EA%B0%9C%EC%99%80%20%EC%9E%91%EC%84%B1.md)
    
