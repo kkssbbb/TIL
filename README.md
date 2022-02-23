@@ -36,7 +36,7 @@
 
 ---------------
 ## JavaScript
-- [AJAX란]()
+- [AJAX란](https://github.com/kkssbbb/TIL/blob/main/JavaScript/AJAX%EB%9E%80.md)
 ---------------
 ## Errors
 - SpringBoot
