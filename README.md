@@ -35,6 +35,9 @@
 <br>
 
 ---------------
+## JavaScript
+- [AJAX란]()
+---------------
 ## Errors
 - SpringBoot
   - [Testcode 실행 404에러](https://github.com/KINGsBARE/TIL/blob/main/Errors/Testcode%20%EC%8B%A4%ED%96%89%20404%EC%97%90%EB%9F%AC.md)
