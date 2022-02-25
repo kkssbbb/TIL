@@ -37,7 +37,7 @@
 ---------------
 ## JavaScript
 - [AJAX란](https://github.com/kkssbbb/TIL/blob/main/JavaScript/AJAX%EB%9E%80.md)
-- [AJAX를 사용하는 이유]()
+- [AJAX를 사용하는 이유](https://github.com/kkssbbb/TIL/blob/main/JavaScript/AJAX%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
 ---------------
 ## Errors
 - SpringBoot
