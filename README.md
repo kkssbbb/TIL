@@ -62,7 +62,7 @@
 
 ---------------
 
-## Algorithm / Data Structure
+## CS / Algorithm / Data Structure
  ### Algorithm
   -
  <br>
