@@ -11,7 +11,10 @@
 - [자바 메모리구조](https://github.com/kkssbbb/TIL/blob/main/JAVA/%EC%9E%90%EB%B0%94%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B5%AC%EC%A1%B0.md)
 
 - [커스텀 자료형 bean과 메모리영역 heap](https://github.com/kkssbbb/TIL/blob/main/JAVA/%EC%BB%A4%EC%8A%A4%ED%85%80%20%EC%9E%90%EB%A3%8C%ED%98%95%20bean%EA%B3%BC%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%98%81%EC%97%ADheap.md)
+
 - [람다식](https://github.com/kkssbbb/TIL/blob/main/JAVA/%EB%9E%8C%EB%8B%A4%EC%8B%9D.md)
+
+- [스프링부트기본 로직 정리와 기본로직의 문제점](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%EA%B8%B0%EB%B3%B8%EB%A1%9C%EC%A7%81%EA%B3%BC%20%EA%B8%B0%EB%B3%B8%EB%A1%9C%EC%A7%81%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
      
 <br>
 <br>
