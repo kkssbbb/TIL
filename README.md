@@ -52,7 +52,7 @@
 
 ---------------
 ## DataBase
- - [트랜재션이란?](https://github.com/kkssbbb/TIL/blob/main/DataBase/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%B4%EB%9E%80.md)
+ - [트랜잭션이란?](https://github.com/kkssbbb/TIL/blob/main/DataBase/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%B4%EB%9E%80.md)
 
 ---------------
 ## CS / Algorithm / Data Structure
