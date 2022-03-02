@@ -14,7 +14,7 @@
 
 - [람다식](https://github.com/kkssbbb/TIL/blob/main/JAVA/%EB%9E%8C%EB%8B%A4%EC%8B%9D.md)
 
-- [스프링부트기본 로직 정리와 기본로직의 문제점](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%EA%B8%B0%EB%B3%B8%EB%A1%9C%EC%A7%81%EA%B3%BC%20%EA%B8%B0%EB%B3%B8%EB%A1%9C%EC%A7%81%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
+
      
 <br>
 <br>
@@ -29,6 +29,8 @@
   - [테스트코드의 소개와 작성](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C%EC%9D%98%20%EC%86%8C%EA%B0%9C%EC%99%80%20%EC%9E%91%EC%84%B1.md)
    
   - [머스테치로_화면구성하기](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/%EB%A8%B8%EC%8A%A4%ED%85%8C%EC%B9%98%EB%A1%9C_%ED%99%94%EB%A9%B4%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0.md)
+
+  - [스프링부트기본 로직 정리](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%EA%B8%B0%EB%B3%B8%EB%A1%9C%EC%A7%81%EA%B3%BC%20%EA%B8%B0%EB%B3%B8%EB%A1%9C%EC%A7%81%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
 ## JPA
   - [JPA 개념정리](https://github.com/kkssbbb/TIL/blob/main/JPA/JPA%20%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC.md)
    - [JPA(Java Persistence API)](https://github.com/kkssbbb/TIL/blob/main/JPA/JPA(Java%20Persistence%20API).md)
