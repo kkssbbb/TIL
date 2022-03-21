@@ -14,7 +14,7 @@
 
 - [람다식](https://github.com/kkssbbb/TIL/blob/main/JAVA/%EB%9E%8C%EB%8B%A4%EC%8B%9D.md)
 
-- [JDBC란?]()
+- [JDBC란?](https://github.com/kkssbbb/TIL/blob/main/JAVA/JDBC%EB%9E%80.md)
 
      
 <br>
