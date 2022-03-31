@@ -87,7 +87,9 @@
  - git_github
      - [intelliJ github 연결](https://github.com/KINGsBARE/TIL/blob/main/ETC/intelliJ%20github%20%EC%97%B0%EA%B2%B0.md)
 
-- [아키텍처 (Architecture)란] ()
+<br>
+
+- [아키텍처 (Architecture)란](https://github.com/kkssbbb/TIL/blob/main/ETC/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20(Architecture)%EB%9E%80.md)
 
      <br>
      <br>
