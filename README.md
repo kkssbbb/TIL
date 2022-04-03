@@ -91,6 +91,11 @@
 
 - [아키텍처 (Architecture)란](https://github.com/kkssbbb/TIL/blob/main/ETC/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20(Architecture)%EB%9E%80.md)
 
+<br>
+
+- [카카오OAuth 기본 동작 원리]()
+
+- [REST API 란]()
      <br>
      <br>
 
