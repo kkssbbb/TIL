@@ -16,6 +16,7 @@
 
 - [JDBC란?](https://github.com/kkssbbb/TIL/blob/main/JAVA/JDBC%EB%9E%80.md)
 
+- [변수, 연산자, 조건문과 반복문]()
      
 <br>
 <br>
