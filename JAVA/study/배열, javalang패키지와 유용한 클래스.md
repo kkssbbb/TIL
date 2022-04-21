@@ -135,6 +135,26 @@ class Value{
 ### hashCode()
 - 객체의 해시코드(hash code)를 반환하는 메서드
 - object클래스의 hashCode()는 객체의 주소를 int로 변환해서 반환
+- equals()를 오버라이딩 하면, hashcode()도 오버라이딩해야 한다. equals()의 결과가 true인 두 객체의 해시코드는 같아야 하기 떄문이다.
+
+~~~java
+public class EtcTest {
+    public static void  main(String[] args) {
+
+       String st1 = new String("asd");
+       String st2 = new String("asd");
+
+
+        System.out.println(st1.equals(st2)); //true
+        System.out.println(st1.hashCode()); //96882
+        System.out.println(st2.hashCode()); //96882
+
+    }
+    }
+
+
+~~~
+
 ### toString()
 - toString() 메서드는 해당 인스턴스에 대한 정보를 문자열로 반환한다.
 - 클래스 이름과 함께"@"를 구분자뒤로 해쉬코드 인 객체의 주소가 따라온다.
