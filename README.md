@@ -36,11 +36,7 @@
   - [의존관계 자동 주입]()
   - [빈 생병주기 콜백]()
   - [빈 스코프]()  
-  
- 
-
     
- 
 - [SpringBoot 개념정리](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/SpringBoot%20%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC.md)
 - [SpringBoot 동작원리](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%20%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC.md)
 - [영속성 컨텍스트와 더티체킹](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80%20%EB%8D%94%ED%8B%B0%EC%B2%B4%ED%82%B9.md)
@@ -53,12 +49,15 @@
 
 - [Spring Security 인증 절차](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/Security%20%EC%9D%B8%EC%A6%9D%20%EC%A0%88%EC%B0%A8.md)
 ## JPA
+  
   - [JPA 개념정리](https://github.com/kkssbbb/TIL/blob/main/JPA/JPA%20%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC.md)
    - [JPA(Java Persistence API)](https://github.com/kkssbbb/TIL/blob/main/JPA/JPA(Java%20Persistence%20API).md)
    - [Spring Data JPA](https://github.com/kkssbbb/TIL/blob/main/JPA/Spring%20Data%20JPA.md)
 
 <br>
 <br>
+
+- [스프링 부트와 JPA 활용1]()
 
 ---------------
 ## JavaScript
