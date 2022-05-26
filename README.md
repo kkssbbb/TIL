@@ -57,14 +57,14 @@
 <br>
 <br>
 
-### 스프링부트 JPA활용 1 
-- [프로젝트 환경설정]()
-- [도메인 분석 설계]()
-- [애플리케이션 구현 준비]()
-- [회원 도메인 개발]()
-- [상품 도메인 개발]()
-- [주문 도메인 개발]()
-- [웹 계층 개발]()
+- 스프링부트 JPA활용 1 
+   - [프로젝트 환경설정](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8%EC%99%80%20JPA%20%ED%99%9C%EC%9A%A91/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95.md)
+   - [도메인 분석 설계](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8%EC%99%80%20JPA%20%ED%99%9C%EC%9A%A91/%EB%8F%84%EB%A9%94%EC%9D%B8%20%EB%B6%84%EC%84%9D%20%EC%84%A4%EA%B3%84.md)
+   - [애플리케이션 구현 준비]()
+   - [회원 도메인 개발]()
+   - [상품 도메인 개발]()
+   -  [주문 도메인 개발]()
+   - [웹 계층 개발]()
 
 ---------------
 ## JavaScript
