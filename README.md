@@ -20,7 +20,8 @@
 
 - [배열, javalang패키지와 유용한 클래스](https://github.com/kkssbbb/TIL/blob/main/JAVA/study/%EB%B0%B0%EC%97%B4%2C%20javalang%ED%8C%A8%ED%82%A4%EC%A7%80%EC%99%80%20%EC%9C%A0%EC%9A%A9%ED%95%9C%20%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 
-- [쓰레드 Thread]()
+- [쓰레드 Thread](https://github.com/kkssbbb/TIL/blob/main/JAVA/%EC%93%B0%EB%A0%88%EB%93%9C%EC%99%80%20%EB%A9%80%ED%8B%B0%EC%93%B0%EB%A0%88%EB%93%9C.md)
+
      
 <br>
 <br>
@@ -123,7 +124,7 @@
 
 - [카카오OAuth 기본 동작 원리](https://github.com/kkssbbb/TIL/blob/main/ETC/%EC%B9%B4%EC%B9%B4%EC%98%A4OAuth%20%EA%B8%B0%EB%B3%B8%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
 
-- [REST API 란]()
+- [HTML, HTTP API, SSR, CSR 이란?]()
      <br>
      <br>
 
