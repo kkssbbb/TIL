@@ -28,7 +28,7 @@
  
 ---------------
 ## Spring
-
+- [MVC 프레임 워크 만들기]()
 - 스프링 핵심원리
   - [객체 지향 설계와 스프링](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%EC%84%A4%EA%B3%84%EC%99%80%20%EC%8A%A4%ED%94%84%EB%A7%81.md)
   - [스프링 핵심 원리 이해1 -예제 만들기](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/%EC%8A%A4%ED%94%84%EB%A7%81_%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC%20%EC%9D%B4%ED%95%B41%20-%EC%98%88%EC%A0%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)  
@@ -48,6 +48,7 @@
    - [상품 도메인 개발](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8%EC%99%80%20JPA%20%ED%99%9C%EC%9A%A91/%EC%83%81%ED%92%88%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EA%B0%9C%EB%B0%9C.md)
    -  [주문 도메인 개발](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8%EC%99%80%20JPA%20%ED%99%9C%EC%9A%A91/%EC%A3%BC%EB%AC%B8%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EA%B0%9C%EB%B0%9C.md)
    - [웹 계층 개발](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8%EC%99%80%20JPA%20%ED%99%9C%EC%9A%A91/%EC%9B%B9%20%EA%B3%84%EC%B8%B5%20%EA%B0%9C%EB%B0%9C.md)
+
 
     
 - [SpringBoot 개념정리](https://github.com/kkssbbb/TIL/blob/main/SpringBoot/SpringBoot%20%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC.md)
@@ -124,7 +125,7 @@
 
 - [카카오OAuth 기본 동작 원리](https://github.com/kkssbbb/TIL/blob/main/ETC/%EC%B9%B4%EC%B9%B4%EC%98%A4OAuth%20%EA%B8%B0%EB%B3%B8%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
 
-- [HTML, HTTP API, SSR, CSR 이란?]()
+- [HTML, HTTP API, SSR, CSR 이란?](https://github.com/kkssbbb/TIL/blob/main/ETC/HTML%2C%20HTTP%20API%2C%20SSR%2C%20CSR%20%EC%9D%B4%EB%9E%80.md)
      <br>
      <br>
 
