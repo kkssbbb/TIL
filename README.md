@@ -83,6 +83,12 @@
 ## JavaScript
 - [AJAX란](https://github.com/kkssbbb/TIL/blob/main/JavaScript/AJAX%EB%9E%80.md)
 - [AJAX를 사용하는 이유](https://github.com/kkssbbb/TIL/blob/main/JavaScript/AJAX%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
+- [DOM이란?-javaScript](https://github.com/kkssbbb/TIL/blob/main/JavaScript/DOM%EC%9D%B4%EB%9E%80%3F-javaScript.md)
+- [Symbol type이란](https://github.com/kkssbbb/TIL/blob/main/JavaScript/Symbol%20type%EC%9D%B4%EB%9E%80.md)
+- [one-way UI 애니메이션 만들기](https://github.com/kkssbbb/TIL/blob/main/JavaScript/one-way%20UI%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+- [렉시컬 스코프(lexical Scope)](https://github.com/kkssbbb/TIL/blob/main/JavaScript/%EB%A0%89%EC%8B%9C%EC%BB%AC%20%EC%8A%A4%EC%BD%94%ED%94%84(lexical%20Scope).md)
+- [변수,스코프](https://github.com/kkssbbb/TIL/blob/main/JavaScript/%EB%B3%80%EC%88%98%2C%EC%8A%A4%EC%BD%94%ED%94%84.md)
+- [함수 선언문 vs 함수 표현식](https://github.com/kkssbbb/TIL/blob/main/JavaScript/%ED%95%A8%EC%88%98%20%EC%84%A0%EC%96%B8%EB%AC%B8%20vs%20%ED%95%A8%EC%88%98%20%ED%91%9C%ED%98%84%EC%8B%9D.md)
 ---------------
 ## Errors
 - SpringBoot
