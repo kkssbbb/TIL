@@ -1,19 +1,19 @@
-const fs = require('fs');
-let input = fs.readFileSync('BaekJoon/반복문/2439_별 찍기-2/input.txt').toString();
+const fs =  require('fs');
+let input = +fs.readFileSync('BaekJoon/반복문/2439_별 찍기-2/input.txt').toString();
 
-let num = +input[0];
+console.log(input);
 
+let star = '';
+let blank = '';
 
-for (let i = 1; i <= num; i++) {
-    console.log('*'.repeat(i));
+for(let i=0; i<input; i++){
+    star += '*';
+    for(let j = 0; j<input-(i+1); j++){
+        blank += " ";
+    }
+    console.log(blank+star);
+    blank ='';
+    
+    
     
 }
-
-
-/*  
-1 
-3
-5
-7
-9
-*/
