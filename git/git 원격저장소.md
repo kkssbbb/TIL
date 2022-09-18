@@ -82,3 +82,24 @@ push
 
 
 # Origin이란?
+~~~
+$ git remote add origin https://github.com/kkssbbb/TIL.git
+~~~
+- origin이란 이름으로 원격저장소의 이름을 지정한다는 의미다.
+~~~
+$ git remote add free https://github.com/kkssbbb/TIL.git
+~~~
+- origin이아닌 다른 이름(free)으로 지정도 가능한다.
+
+
+<br>
+<br>
+
+기본적으로 원격저장소의 이름은 origindl 기본값이기 떄문에
+복사해온 저장소의 이름은 origin으로 통일된다.
+<br>
+<br>
+
+## git remote -v 
+- -v : 옵션을 사용하여 지정한 저장소의 이름과 주소를 볼 수 있다.
+
