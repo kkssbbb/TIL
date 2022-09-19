@@ -18,4 +18,4 @@ for(let i = 0; i<testNum; i++){
 
 }
 
-console.log(answer);
+
