@@ -1,29 +1,23 @@
- // 지시사항을 참고하여 solution 함수 안에 코드를 작성하고 출력값을 return 하세요.
- const model = {
-    ASSEQQ: '티셔츠',
-    BLEWLQS: '스프라이트티',
-    BMWQWFF: '나시',
-    ELLAKKE: '청바지',
-    FFFQWES: '니트',
-    NKFKEKQ: '후드티',
-    QWEFVQW: '양말',
-    QWLVXA: '모자',
-    VNDNVSA: '슬랙스',
-    WEDAQDC: '운동복',
-    WWAAEBK: '원피스',
+// 1) Scroll Navigation
+
+var aTags = document.querySelectorAll('header a');
+// a테그를  변수 aTags에저장
+
+for (var i = 0; i < aTags.length; i++) {
+    //aTags 크기(요소갯수)만큼 반복
+  aTags[i].onclick = function (e) {
+    e.preventDefault();
+ //aTags i번쨰 요소를 클릭시 동작멈춤
+ 
+    var target = document.querySelector(this.getAttribute('href'));
+    //이벤트가 발생할떄 이벤트를 발생시키 오브젝트를 가르킨다.
+
+    window.scrollTo({
+      behavior: 'smooth',
+      top: target.offsetTop,
+
+    });
+
   };
-  
-  function solution(order) {
-  
-    return order;
-  }
-  
-  
-  // 실행 혹은 제출을 위한 코드입니다. 지우거나 수정하지 말아주세요.
-  let order =
- `ASSEQQ 3
-  FFFQWES 4
-  QWEFVQW 0
-  QWLVXA 3
-  WWAAEBK 5`;
-  solution(order) ;
+
+}
