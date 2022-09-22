@@ -1,23 +1,17 @@
-// 1) Scroll Navigation
+// 1. document 의 자식 노드들 중 두번째 노드를 node1변수에 할당하도록 코드를 작성하세요.
+let node1 = docment.childNodes[1];
 
-var aTags = document.querySelectorAll('header a');
-// a테그를  변수 aTags에저장
+// 2. node1의 자식 노드들 중 세번째 노드를 node2변수에 할당하도록 코드를 작성하세요.
+let node2 = docment.childNodes[3];
 
-for (var i = 0; i < aTags.length; i++) {
-    //aTags 크기(요소갯수)만큼 반복
-  aTags[i].onclick = function (e) {
-    e.preventDefault();
- //aTags i번쨰 요소를 클릭시 동작멈춤
- 
-    var target = document.querySelector(this.getAttribute('href'));
-    //이벤트가 발생할떄 이벤트를 발생시키 오브젝트를 가르킨다.
+// 3. node2의 자식 노드들 중 두번째 노드를 node3변수에 할당하도록 코드를 작성하세요.
+let node3 = node2.childNodes[2];
 
-    window.scrollTo({
-      behavior: 'smooth',
-      top: target.offsetTop,
+// 4. node1, node2, node3의 이름을 nodeName을 이용해 출력하도록 코드를 작성하세요.
+console.log(node1.nodeName);
+console.log(node2.nodeName);
+console.log(node3.nodeName);
 
-    });
 
-  };
 
-}
+//5. `node2`의 자식 변수들을 모두 출력해봅니다.
