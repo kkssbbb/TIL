@@ -1,0 +1,2 @@
+
+console.log(max,indexNum);
