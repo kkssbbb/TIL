@@ -1,32 +1,25 @@
-// 2) Image Slider
+/* for 문을 공부 중이신가보네요~ 공부에 왕도가 어디겠습니까만은 
+별을 그린다가 아니라 별을 그리기 위한 숫자를 찾는다 -> 
+공백의 개수, 별의 개수 -> 
+숫자의 변화에 맞는 반복문의 조건을 떠올린다 -> 
+일단 1~2줄만 해본다 -> 
+조합 처럼 일단 해야할 단계를 최대한 쪼개놓고 생각해보는 연습을 해보는 것을 추천드려봅니다 :) */
 
-//슬라이더 요소선택해서 변수에 담기
-var slider = document.querySelector('#slider');
-var slides = slider.querySelector('.slides');
-var slide = slides.querySelectorAll('.slide');
+for(let i = 0; i < 5; i++)  {
 
-//화면에 보여지는 슬라이더가 몇번인지 알려주는 변수
-var currentSlide = 0;
-
-setInterval(function () {
-  //현재있는 위치에서 어디로 이동할껀지
-  var from = -(1024 * currentSlide); //현제 슬라이드에서 1024 를 뺸지점
-  var to = from - 1024; //프론에서 1024를 뺸지점
-
-  slides.animate(
-    {
-      marginLeft: [from + 'px', to + 'px'],
-    },
-    {
-      duration: 2000,
-      easing: 'ease',
-      iterations: 1,
-      fill: 'both',
+    for(let j=4; j > i; j--)  {
+      // space
+      document.write('&nbsp');
     }
-  );
-
-  currentSlide++;
-  if (currentSlide === slide.length - 1) {
-    currentSlide = 0;
+    for(let j=0; j <= i; j++)  {
+      document.write('*');
+    }
+    for(let j=1; j <= i; j++)  {
+      document.write('*');
+    }
+    document.write('<br>');
   }
-}, 5000);
+  document.querySelector
+
+  addEventListener()
+
