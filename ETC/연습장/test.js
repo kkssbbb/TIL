@@ -1,25 +1,31 @@
-/* for 문을 공부 중이신가보네요~ 공부에 왕도가 어디겠습니까만은 
-별을 그린다가 아니라 별을 그리기 위한 숫자를 찾는다 -> 
-공백의 개수, 별의 개수 -> 
-숫자의 변화에 맞는 반복문의 조건을 떠올린다 -> 
-일단 1~2줄만 해본다 -> 
-조합 처럼 일단 해야할 단계를 최대한 쪼개놓고 생각해보는 연습을 해보는 것을 추천드려봅니다 :) */
+const arr = [1, 2, 3, 4, 5];
+const result = arr.reduce((acc, cur, idx) => { return acc += cur; }, 0);
+console.log(result);  // 15
 
-for(let i = 0; i < 5; i++)  {
 
-    for(let j=4; j > i; j--)  {
-      // space
-      document.write('&nbsp');
+
+//주어진 배열엔에 있는 양수,음수,0 의 개수를 각각 구하시요
+const arr2 = [-1,-4.,2,5.0,-1];
+
+  const answer = arr2.reduce(function(acc,cur,inx){
+
+    if(cur>0){
+      acc[0]++;
     }
-    for(let j=0; j <= i; j++)  {
-      document.write('*');
+    if(cur<0){
+      acc[1]++;
     }
-    for(let j=1; j <= i; j++)  {
-      document.write('*');
+    if(cur === 0){
+      acc[2]++;
     }
-    document.write('<br>');
-  }
-  document.querySelector
+      return acc;
+  }, [0,0,0])
 
-  addEventListener()
+  console.log(`
+  양수갯수 : ${answer[0]}
+  음수갯수 : ${answer[1]}
+  0 갯수 : ${answer[2]}
+  
+  `);
 
+  
