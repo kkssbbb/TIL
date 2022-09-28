@@ -1,3 +1,1 @@
-let a = 'get';
-
-console.log(...a);
+1000
