@@ -1,20 +1,12 @@
-var persons = [
-    { firstname: "Malcom", lastname: "Reynolds" },
-    { firstname: "Kaylee", lastname: "Frye" },
-    { firstname: "Jayne", lastname: "Cobb" },
-  ];
-  
-  function getFullName(item) {
+let mom = {
+  money :10000
+}
 
-    let fullName = persons.firstname +persons.lastname;
-    return  console.log(fullName);;
-  }
-  
-  
+let me = {
+  phone : 'iphone'
+}
 
-  //맵을 이용해 풀네임을 만들자
- persons.map(getFullName);
 
-  
+me.prototype = mom ;
 
- 
+console.log(me.hasOwnProperty("money"));

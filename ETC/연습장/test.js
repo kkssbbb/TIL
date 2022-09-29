@@ -1,15 +1,7 @@
-const bin = {
-  money : 200,
+let mom = {
+  money :10000
 }
 
-
-function UpDateSalary(salary, performance_pay ){
-  this.money += +salary;
-   this.salary = salary;
-   this.performance_pay = performance_pay;
+let me = {
+  phone : 'iphone'
 }
-
-
-let binUpDateSalary = UpDateSalary.bind(bin);
-binUpDateSalary(1000,500)
-console.log(bin); 
