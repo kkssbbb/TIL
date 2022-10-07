@@ -89,6 +89,7 @@
 - [렉시컬 스코프(lexical Scope)](https://github.com/kkssbbb/TIL/blob/main/JavaScript/%EB%A0%89%EC%8B%9C%EC%BB%AC%20%EC%8A%A4%EC%BD%94%ED%94%84(lexical%20Scope).md)
 - [변수,스코프](https://github.com/kkssbbb/TIL/blob/main/JavaScript/%EB%B3%80%EC%88%98%2C%EC%8A%A4%EC%BD%94%ED%94%84.md)
 - [함수 선언문 vs 함수 표현식](https://github.com/kkssbbb/TIL/blob/main/JavaScript/%ED%95%A8%EC%88%98%20%EC%84%A0%EC%96%B8%EB%AC%B8%20vs%20%ED%95%A8%EC%88%98%20%ED%91%9C%ED%98%84%EC%8B%9D.md)
+- [fetch() api 호출 정리](https://github.com/kkssbbb/TIL/blob/main/JavaScript/fetch()%20%ED%95%A8%EC%88%98%20%EA%B0%84%EB%8B%A8%20%EC%A0%95%EB%A6%AC.md)
 ---------------
 ## Errors
 - SpringBoot
