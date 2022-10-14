@@ -1,0 +1,27 @@
+유틸리티 타입
+
+## Partial<T>
+파셜타입은 인터페이스 객체의 프로퍼티를 다 쓰지않고 선택해서 사용할 수 있다.
+```ts
+interface Human{
+    tall: number;
+    name: string;
+    gender: string;
+}
+// 위 코드는 아래와 같다고 볼 수 있다.
+// interface Human{
+//     tall?: number;
+//     name?: string;
+//     gender?: string;
+// }
+
+let hong:  Partial<Human> = {
+    tall: 184,
+
+}
+
+console.log(hong)
+/* {
+  "tall": 184
+}  */
+```
