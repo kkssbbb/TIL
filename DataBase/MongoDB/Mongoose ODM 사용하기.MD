@@ -26,7 +26,7 @@ module.exports = PostSchma;
 ~~~js
 const mongoose = require('mongoose');
 const PostSchema = require('작성된 스키마 주소')
-exports.Post = mogoose.model('Post', PostSchema) //모델의 이름을 지정하여 Populate등에서 해당 이름으로 모델 호출이 가능하다.
+exports.Post = mogoose.model('Post', PostSchema) //모델의 이름을'Psot'로 지정하여 Populate등에서 해당 이름으로 모델 호출이 가능하다.
 ~~~
 mogoose의 model() 함수로 'Post'라는 이름으로 PostSchema를 만들어 줬다
 
