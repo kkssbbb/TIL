@@ -54,8 +54,13 @@ console.log(typeof a === "undefined"); //true
 -   타입을 나타내는 문자열을 반환하는 typeof 연산자로 null 값을 연산해 보면 null이 아닌 object가 나온다. 이는 자바스크립트의 설계상의 오류라고하네요
 
 ```
-var foo = null;
-console.log(typeof foo); // object
+var human = {
+  name: "홍길동",
+  age: 12,
+}
+human = null;
+console.log(typeof human); // object
+console.log(human); // null
 ```
 
 ```
