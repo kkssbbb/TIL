@@ -2,6 +2,25 @@
 ---------------
 ## Why?
 ---------------
+## JavaScript
+- [AJAX란](https://github.com/kkssbbb/TIL/blob/main/JavaScript/AJAX%EB%9E%80.md)
+- [AJAX를 사용하는 이유](https://github.com/kkssbbb/TIL/blob/main/JavaScript/AJAX%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
+- [DOM이란?-javaScript](https://github.com/kkssbbb/TIL/blob/main/JavaScript/DOM%EC%9D%B4%EB%9E%80%3F-javaScript.md)
+- [Symbol type이란](https://github.com/kkssbbb/TIL/blob/main/JavaScript/Symbol%20type%EC%9D%B4%EB%9E%80.md)
+- [one-way UI 애니메이션 만들기](https://github.com/kkssbbb/TIL/blob/main/JavaScript/one-way%20UI%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+- [렉시컬 스코프(lexical Scope)](https://github.com/kkssbbb/TIL/blob/main/JavaScript/%EB%A0%89%EC%8B%9C%EC%BB%AC%20%EC%8A%A4%EC%BD%94%ED%94%84(lexical%20Scope).md)
+- [변수,스코프](https://github.com/kkssbbb/TIL/blob/main/JavaScript/%EB%B3%80%EC%88%98%2C%EC%8A%A4%EC%BD%94%ED%94%84.md)
+- [함수 선언문 vs 함수 표현식](https://github.com/kkssbbb/TIL/blob/main/JavaScript/%ED%95%A8%EC%88%98%20%EC%84%A0%EC%96%B8%EB%AC%B8%20vs%20%ED%95%A8%EC%88%98%20%ED%91%9C%ED%98%84%EC%8B%9D.md)
+- [fetch() api 호출 정리](https://github.com/kkssbbb/TIL/blob/main/JavaScript/fetch()%20%ED%95%A8%EC%88%98%20%EA%B0%84%EB%8B%A8%20%EC%A0%95%EB%A6%AC.md)
+-[undefined vs null](https://github.com/kkssbbb/TIL/blob/main/JavaScript/undefined%20vs%20null.md)
+
+
+<br>
+<br>
+
+
+
+---------------
 ## JAVA 
 
 - [자바의 규칙](https://github.com/kkssbbb/TIL/blob/main/JAVA/%EC%9E%90%EB%B0%94%EC%9D%98%20%EA%B7%9C%EC%B9%99.md)
@@ -21,12 +40,18 @@
 - [배열, javalang패키지와 유용한 클래스](https://github.com/kkssbbb/TIL/blob/main/JAVA/study/%EB%B0%B0%EC%97%B4%2C%20javalang%ED%8C%A8%ED%82%A4%EC%A7%80%EC%99%80%20%EC%9C%A0%EC%9A%A9%ED%95%9C%20%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 
 - [쓰레드 Thread](https://github.com/kkssbbb/TIL/blob/main/JAVA/%EC%93%B0%EB%A0%88%EB%93%9C%EC%99%80%20%EB%A9%80%ED%8B%B0%EC%93%B0%EB%A0%88%EB%93%9C.md)
-<!--  -->
-     
-<br>
-<br>
- 
 ---------------
+## Errors
+- SpringBoot
+  - [Testcode 실행 404에러](https://github.com/KINGsBARE/TIL/blob/main/Errors/Testcode%20%EC%8B%A4%ED%96%89%20404%EC%97%90%EB%9F%AC.md)
+  - [테스트코드 No tests found for given includes 에러](https://github.com/kkssbbb/TIL/blob/main/Errors/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C%20No%20tests%20found%20for%20given%20includes.md)
+   - [java.lang.AssertionError 에러](https://github.com/kkssbbb/TIL/blob/main/Errors/java.lang.AssertionError%20%EC%97%90%EB%9F%AC.md)
+
+<br>
+<br>
+
+ ---------------
+
 ## Spring
 - [MVC 프레임 워크 만들기]()
 - 스프링 핵심원리
@@ -77,30 +102,6 @@
 
 <br>
 <br>
-
-
----------------
-## JavaScript
-- [AJAX란](https://github.com/kkssbbb/TIL/blob/main/JavaScript/AJAX%EB%9E%80.md)
-- [AJAX를 사용하는 이유](https://github.com/kkssbbb/TIL/blob/main/JavaScript/AJAX%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
-- [DOM이란?-javaScript](https://github.com/kkssbbb/TIL/blob/main/JavaScript/DOM%EC%9D%B4%EB%9E%80%3F-javaScript.md)
-- [Symbol type이란](https://github.com/kkssbbb/TIL/blob/main/JavaScript/Symbol%20type%EC%9D%B4%EB%9E%80.md)
-- [one-way UI 애니메이션 만들기](https://github.com/kkssbbb/TIL/blob/main/JavaScript/one-way%20UI%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
-- [렉시컬 스코프(lexical Scope)](https://github.com/kkssbbb/TIL/blob/main/JavaScript/%EB%A0%89%EC%8B%9C%EC%BB%AC%20%EC%8A%A4%EC%BD%94%ED%94%84(lexical%20Scope).md)
-- [변수,스코프](https://github.com/kkssbbb/TIL/blob/main/JavaScript/%EB%B3%80%EC%88%98%2C%EC%8A%A4%EC%BD%94%ED%94%84.md)
-- [함수 선언문 vs 함수 표현식](https://github.com/kkssbbb/TIL/blob/main/JavaScript/%ED%95%A8%EC%88%98%20%EC%84%A0%EC%96%B8%EB%AC%B8%20vs%20%ED%95%A8%EC%88%98%20%ED%91%9C%ED%98%84%EC%8B%9D.md)
-- [fetch() api 호출 정리](https://github.com/kkssbbb/TIL/blob/main/JavaScript/fetch()%20%ED%95%A8%EC%88%98%20%EA%B0%84%EB%8B%A8%20%EC%A0%95%EB%A6%AC.md)
----------------
-## Errors
-- SpringBoot
-  - [Testcode 실행 404에러](https://github.com/KINGsBARE/TIL/blob/main/Errors/Testcode%20%EC%8B%A4%ED%96%89%20404%EC%97%90%EB%9F%AC.md)
-  - [테스트코드 No tests found for given includes 에러](https://github.com/kkssbbb/TIL/blob/main/Errors/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C%20No%20tests%20found%20for%20given%20includes.md)
-   - [java.lang.AssertionError 에러](https://github.com/kkssbbb/TIL/blob/main/Errors/java.lang.AssertionError%20%EC%97%90%EB%9F%AC.md)
-
-<br>
-<br>
-
-
 
 ---------------
 ## DataBase
