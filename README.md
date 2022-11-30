@@ -3,6 +3,7 @@
 ## Why?
 ---------------
 ## JavaScript
+- [실행컨택스트, 콜스택, 스코프, 클로저 정리](https://github.com/kkssbbb/TIL/blob/main/JavaScript/%EC%8B%A4%ED%96%89%EC%BB%A8%ED%83%9D%EC%8A%A4%ED%8A%B8%2C%20%EC%BD%9C%EC%8A%A4%ED%83%9D%2C%20%EC%8A%A4%EC%BD%94%ED%94%84%2C%20%ED%81%B4%EB%A1%9C%EC%A0%80%20%EC%A0%95%EB%A6%AC.md)
 - [AJAX란](https://github.com/kkssbbb/TIL/blob/main/JavaScript/AJAX%EB%9E%80.md)
 - [AJAX를 사용하는 이유](https://github.com/kkssbbb/TIL/blob/main/JavaScript/AJAX%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
 - [DOM이란?-javaScript](https://github.com/kkssbbb/TIL/blob/main/JavaScript/DOM%EC%9D%B4%EB%9E%80%3F-javaScript.md)
