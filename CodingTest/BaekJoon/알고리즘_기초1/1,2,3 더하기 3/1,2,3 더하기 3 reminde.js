@@ -19,4 +19,3 @@ for(let i =4; i<=inputMaxNum; i++){
 for(i of inputArr){
     console.log(arr[i]);
 }
-
