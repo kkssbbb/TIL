@@ -4,7 +4,10 @@
 
 ## Cloud
 
-- [AWS IAM 정책 구조](https://github.com/kkssbbb/TIL/blob/main/Cloud/AWS/IAM%20%EC%A0%95%EC%B1%85%20%EA%B5%AC%EC%A1%B0.md)
+### AWS
+
+- [IAM 정책 구조](https://github.com/kkssbbb/TIL/blob/main/Cloud/AWS/IAM%20%EC%A0%95%EC%B1%85%20%EA%B5%AC%EC%A1%B0.md)
+- [EC2 구매 정책 ](https://github.com/kkssbbb/TIL/blob/main/Cloud/AWS/EC2%20Instance%20Purchasing%20Option.md)
 
 ## Network
 
