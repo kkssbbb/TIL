@@ -1,0 +1,3 @@
+Object Class
+
+equals()
