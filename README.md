@@ -60,9 +60,13 @@
 ## Errors
 
 - SpringBoot
+
   - [Testcode 실행 404에러](https://github.com/KINGsBARE/TIL/blob/main/Errors/Testcode%20%EC%8B%A4%ED%96%89%20404%EC%97%90%EB%9F%AC.md)
   - [테스트코드 No tests found for given includes 에러](https://github.com/kkssbbb/TIL/blob/main/Errors/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C%20No%20tests%20found%20for%20given%20includes.md)
   - [java.lang.AssertionError 에러](https://github.com/kkssbbb/TIL/blob/main/Errors/java.lang.AssertionError%20%EC%97%90%EB%9F%AC.md)
+
+- PostgreSQL
+  - [PostgreSQL 데이터베이스 접속 후 관련 문제 해결: 'more'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는 배치 파일이 아닙니다.](<https://github.com/kkssbbb/TIL/blob/main/Errors/Database%20%EA%B4%80%EB%A0%A8%20%EC%97%90%EB%9F%AC/%5BPostgreSQL%5D%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%A0%91%EC%86%8D%20%ED%9B%84%20%EA%B4%80%EB%A0%A8%20%EB%AC%B8%EC%A0%9C%20'more'%EC%9D%80(%EB%8A%94)%20%EB%82%B4%EB%B6%80%20%EB%98%90%EB%8A%94%20%EC%99%B8%EB%B6%80%20%EB%AA%85%EB%A0%B9%2C%20%EC%8B%A4%ED%96%89%ED%95%A0%20%EC%88%98%20%EC%9E%88%EB%8A%94%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%2C%20%EB%98%90%EB%8A%94%20%EB%B0%B0%EC%B9%98%20%ED%8C%8C%EC%9D%BC%EC%9D%B4%20%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4.md>)
 
 <br>
 <br>
