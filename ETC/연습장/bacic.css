@@ -1,4 +1,4 @@
-*{
+* {
     box-sizing: border-box;
 }
 
@@ -8,27 +8,32 @@ body {
     margin: 0;
 }
 
-.item{
+.item {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px  solid #181818;
+    border: 1px solid #181818;
     font-size: 1.2rem;
     font-weight: bold;
 }
 
-.color1{
+/* 푸시무반응 테스트 */
+.color1 {
     background-color: #d1bee2;
 }
-.color2{
+
+.color2 {
     background-color: #a1c7d8;
 }
-.color3{
+
+.color3 {
     background-color: #c0df9f;
 }
-.color4{
+
+.color4 {
     background-color: #f2e5a6;
 }
-.color5{
+
+.color5 {
     background-color: #e89d9d;
 }
