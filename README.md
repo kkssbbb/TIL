@@ -59,6 +59,15 @@
 
 - [쓰레드 Thread](https://github.com/kkssbbb/TIL/blob/main/JAVA/%EC%93%B0%EB%A0%88%EB%93%9C%EC%99%80%20%EB%A9%80%ED%8B%B0%EC%93%B0%EB%A0%88%EB%93%9C.md)
 
+
+---
+## OS
+### Linux
+
+- [리눅스 디렉토리 구조]()
+
+
+
 ---
 
 ## Errors
@@ -184,4 +193,4 @@
   <br>
   <br>
 
-# 소개
+
