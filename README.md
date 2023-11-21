@@ -64,7 +64,7 @@
 ## OS
 ### Linux
 
-- [리눅스 디렉토리 구조]()
+- [리눅스 디렉토리 구조](https://github.com/kkssbbb/TIL/blob/main/OS/Linux/linux_directory_structure.md)
 
 
 
