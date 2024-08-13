@@ -1,5 +1,8 @@
 # TIL (Today I Learned)
 
+## book
+- [studyGit with Py 정리](https://future-lettuce-167.notion.site/book-studyGit-with-Py-15fed05b9cb24f7489a3641e1c678d59?pvs=25)
+
 ## Virtualization
 - [Docker Overview](https://github.com/kkssbbb/TIL/blob/main/docker/docker_overview.md)
 
