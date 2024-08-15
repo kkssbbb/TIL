@@ -70,6 +70,7 @@
 
 - [리눅스 디렉토리 구조](https://github.com/kkssbbb/TIL/blob/main/OS/Linux/linux_directory_structure.md)
 
+- [top 명령어 정리리](https://future-lettuce-167.notion.site/top-OS-CLI-CPU-a4c7714dbf544c8b890f3e6f8ed79cd2?pvs=4)
 
 
 ---
