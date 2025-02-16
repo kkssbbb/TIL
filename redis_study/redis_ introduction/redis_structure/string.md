@@ -1,6 +1,4 @@
-레디스에서
-
-string, lists,sets, sorted sets,Hashes 등의 다양한 자료구조 지원
+레디스에서 string, lists,sets, sorted sets,Hashes 등의 다양한 자료구조 지원
 
 <!-- omit in toc -->
 # String
@@ -18,6 +16,13 @@ string, lists,sets, sorted sets,Hashes 등의 다양한 자료구조 지원
 - [ttl \<key값\> : 유효기간 남은시간 확인(TTL : Time To Live)](#ttl-key값--유효기간-남은시간-확인ttl--time-to-live)
 - [특정키 삭제 del](#특정키-삭제-del)
 - [모든 키 삭제](#모든-키-삭제)
+
+- [string 활용 (동시성이슈, 캐싱처리)](#string-활용-동시성이슈-캐싱처리)
+  - [레디스의 기본적인 스트링 자료구조르 실무에서 활용하는 방법](#레디스의-기본적인-스트링-자료구조르-실무에서-활용하는-방법)
+  - [좋아요 기능구현](#좋아요-기능구현)
+  - [재고관리](#재고관리)
+  - [캐싱(임시저장)기능구현](#캐싱임시저장기능구현)
+  - [정리](#정리)
 
 
 레디스에서 키값은 모두 문자열
